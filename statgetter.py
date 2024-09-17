@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 maps = {
-    "storm": ["barometer", "beast", "camp", "cascade", "cenote", "checkpoint", "coast", "command", "echo", "launch", "lightning", "mill", "pad", "pylon", "station", "storm", "wall", "zeus"], 
+    "storm": ["barometer", "beast", "camp", "cascade", "cenote", "checkpoint", "coast", "command", "echo", "launch", "lightning", "mill", "north", "pylon", "station", "storm", "wall", "zeus"], 
     "moon": ["array", "atmostation", "base", "bionomics", "cliff", "core", "cultivation", "divide", "foundry", "gardens", "gulch", "labs", "port", "production", "quarantine", "solar", "terraformer", "underpas", "wharf"],
     "district": ["bank", "blossom", "boardwalk", "dam", "galleria", "hall", "heights", "lotus", "market", "point", "resort", "shipyard", "square", "stadium", "viaduct"],  
     "kings": ["airbase", "artillery", "basin", "bunker", "cage", "caustic", "containmment", "crash", "gauntlet", "hydrodam", "labs", "lake", "map", "market", "pit", "relic", "repulsor", "rig", "runoff", "swamps"],
